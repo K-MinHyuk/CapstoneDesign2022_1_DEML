@@ -42,7 +42,7 @@
 > ## TEAM
 |Name|Department|Contact|Github|
 |---|---|---|---|
-|Kim MinHyuk| Hallym-univ/Big-data| hyuk6745@gmail.com |https://github.com/heigarnik
+|Kim MinHyuk| Hallym-univ/Big-data| hyuk6745@gmail.com |https://github.com/K-MinHyuk
 |Yong KwonSoon| Hallym-univ/Big-data| yykks3971@gmail.com|https://github.com/reverse-sky
 -----
 ## **A professor in charge**
